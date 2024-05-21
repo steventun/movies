@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import {getAuth} from "firebase/auth"; 
 
 const firebaseConfig = {
-    apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-    authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
-    projectId: import.meta.env.VITE_FIREBASE_PROJECTID,
-    storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
-    messagingSenderId:import.meta.env.VITE_FIREBASE_MESAGING_SENDER_ID,
-    appId: import.meta.env.APP_ID
+    apiKey: AIzaSyC-1lUo92-GwC-KMZ8xEEAtGBpB43yADRs,
+    authDomain: mmcmovies-6ebd1.firebaseapp.com,
+    projectId: mmcmovies-6ebd1,
+    storageBucket: mmcmovies-6ebd1.appspot.com,
+    messagingSenderId:379699876821,
+    appId: 1:379699876821:web:420e2a806990055808235c
   };
 
 // Initialize Firebase
